@@ -1,0 +1,9 @@
+langgraph>=0.2.55
+langchain-community>=0.3.9
+tavily-python>=0.5.0
+langchain-ollama>=0.2.1
+youtube-transcript-api>=0.4.0
+
+[dev]
+mypy>=1.11.1
+ruff>=0.6.1
